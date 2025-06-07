@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\backc\OneDrive\바탕 화면\CheckMates_Pomodoro(제출용)\CharterState.h(297,1): warning C4715: 'Tomato::getAsciiArt': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\backc\OneDrive\바탕 화면\CheckMates_Pomodoro(제출용)\CharterState.h(193,1): warning C4715: 'Tomato::nowGrow': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Pomodoro.vcxproj -> C:\Users\backc\OneDrive\바탕 화면\CheckMates_Pomodoro(제출용)\x64\Debug\Pomodoro.exe
